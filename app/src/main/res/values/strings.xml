@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyMeteringDevices</string>
+    <string name="about_text_1">Мои счётчики</string>
+    <string name="about_text_2">Сбор и хранение информации о приборах учёта</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
